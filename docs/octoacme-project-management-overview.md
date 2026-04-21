@@ -44,3 +44,6 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+
+## Related templates/checklists
+See [OctoAcme Templates & Checklists](octoacme-templates-and-checklists.md) for reusable templates including the weekly status update, risk register, decision log, Definition of Ready/Done, retro action items tracker, and release notes template.

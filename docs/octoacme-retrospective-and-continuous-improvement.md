@@ -31,3 +31,6 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+## Related templates/checklists
+See [OctoAcme Templates & Checklists](octoacme-templates-and-checklists.md) for the Retro Action Items Tracker template to record and follow up on retrospective action items.

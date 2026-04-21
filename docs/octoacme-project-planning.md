@@ -41,3 +41,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Related templates/checklists
+See [OctoAcme Templates & Checklists](octoacme-templates-and-checklists.md) for the Risk Register template, Definition of Ready checklist, and Definition of Done checklist used during this phase.
