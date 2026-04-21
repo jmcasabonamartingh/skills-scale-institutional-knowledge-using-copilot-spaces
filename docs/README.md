@@ -25,4 +25,4 @@ Quality and release readiness are enforced through practical QA and deployment s
 
 ## Proposing Changes
 
-To propose updates or additions to any process document, use the [Add Content to Project Management Process Docs](./../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) issue template.
+To propose updates or additions to any process document, use the [Add Content to Project Management Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) issue template.
