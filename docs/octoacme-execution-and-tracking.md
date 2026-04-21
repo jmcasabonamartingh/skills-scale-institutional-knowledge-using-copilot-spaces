@@ -38,3 +38,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Related templates/checklists
+See [OctoAcme Templates & Checklists](octoacme-templates-and-checklists.md) for the Weekly Status Update template, Definition of Done checklist, and Risk Register template used during execution.

@@ -36,3 +36,6 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Related templates/checklists
+See [OctoAcme Templates & Checklists](octoacme-templates-and-checklists.md) for the full Release Notes template and Definition of Done checklist used as pre-release gates.
